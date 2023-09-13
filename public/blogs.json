@@ -1,0 +1,72 @@
+[
+    {
+        "id": "12345",
+        "cover": "https://i.ibb.co/QrwYy0c/media-journalism-global-daily-news-content-concept.jpg",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/ZXKVDS9/user-1.png",
+        "posted_date": "2023-09-13",
+        "reading_time": 28,
+        "hashtags": [
+            "fiction",
+            "bestseller",
+            "adventure"
+        ],
+        "title": "The Enchanted Quest"
+    },
+    {
+        "id": "67890",
+        "cover": "https://i.ibb.co/VTnxPG4/hardworking-focused-woman-trendy-glasses-concentrating-writing-essay-sitting-cozy-cafe-near-laptop-w.jpg",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/cQ3p7Vc/user-2.png",
+        "posted_date": "2023-09-14",
+        "reading_time": 15,
+        "hashtags": [
+            "mystery",
+            "crime",
+            "thriller"
+        ],
+        "title": "The Mysterious Case Files"
+    },
+    {
+        "id": "54321",
+        "cover": "https://i.ibb.co/C7jTqPq/smiling-man-surfing-net-laptop-while-drinking-coffee-bar.jpg",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/FKc67t6/user-3.png",
+        "posted_date": "2023-09-15",
+        "reading_time": 36,
+        "hashtags": [
+            "romance",
+            "love",
+            "drama"
+        ],
+        "title": "A Love Story Unfolds"
+    },
+    {
+        "id": "98765",
+        "cover": "https://i.ibb.co/y4LDGNC/Facebook-Algorithm-1-359x188.jpg",
+        "author": "Robert Brown",
+        "author_img": "https://i.ibb.co/XXmxBSL/member2.png",
+        "posted_date": "2023-09-16",
+        "reading_time": 25,
+        "hashtags": [
+            "sciencefiction",
+            "space",
+            "technology"
+        ],
+        "title": "Exploring the Cosmos"
+    },
+    {
+        "id": "13579",
+        "cover": "https://i.ibb.co/y4LDGNC/Facebook-Algorithm-1-359x188.jpghttps://i.ibb.co/h2YCPcj/images.jpg",
+        "author": "Emily White",
+        "author_img": "https://i.ibb.co/4m21FXz/member1.png",
+        "posted_date": "2023-09-17",
+        "reading_time": 11,
+        "hashtags": [
+            "fantasy",
+            "magic",
+            "adventure"
+        ],
+        "title": "The Magical Kingdom Adventure"
+    }
+]
